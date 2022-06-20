@@ -143,24 +143,24 @@ function Home() {
 
         <div className="relative " data-aos="fade-up" data-aos-duration="2000">
           <div className="absolute hover:flex hover:flex-col group hover:bg-[#00000091] rounded-lg transition duration-300 w-full h-full justify-center items-center mb-5">
-            <Link href="https://blogdev.edsonlimaweb.com.br/">
+            <Link href="https://organize.site.edsonlimaweb.com.br/">
               <a type="button" target="_blank" className="text-white hidden group-hover:block bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Ver</a>
             </Link>
-            <p className="hidden group-hover:block text-white text-2xl p-3">Blog</p>
+            <p className="hidden group-hover:block text-white text-2xl p-3">Site do organize clone</p>
           </div>
 
-          <img src="/images/blog.png" className="rounded-lg  h-64 w-full" alt="" />
+          <img src="/images/organize-site.png" className="rounded-lg  h-64 w-full" alt="" />
 
         </div>
 
         <div className="relative " data-aos="fade-up" data-aos-duration="2000">
           <div className="absolute hover:flex hover:flex-col group hover:bg-[#00000091] rounded-lg transition duration-300 w-full h-full justify-center items-center mb-5">
-            <Link href="https://blog-admin-livid-iota.vercel.app/">
+            <Link href="http://organize.edsonlimaweb.com.br/">
               <a type="button" target="_blank" className="text-white hidden group-hover:flex bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Ver</a>
             </Link>
-            <p className=" hidden group-hover:block text-white text-2xl p-3">Admin Dark</p>
+            <p className=" hidden group-hover:block text-white text-2xl p-3">Organize clone</p>
           </div>
-          <img src="/images/admin.png" className="rounded-lg  h-64 w-full" alt="" />
+          <img src="/images/organize.png" className="rounded-lg  h-64 w-full" alt="" />
         </div>
       </section>
 
